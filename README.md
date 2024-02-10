@@ -25,7 +25,7 @@ Please note that running tests with higher numbers of elements may require signi
 1. Clone the repository and navigate into the project directory by running the following commands in your terminal:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/collateralusr/Performance-Test
    pip install -r requirements.txt
    cd Performance-Test
    ```
