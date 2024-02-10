@@ -27,7 +27,6 @@ Please note that running tests with higher numbers of elements may require signi
    ```bash
    git clone https://github.com/collateralusr/Performance-Test
    cd Performance-Test
-   pip install -r requirements.txt
 
    ```
 
